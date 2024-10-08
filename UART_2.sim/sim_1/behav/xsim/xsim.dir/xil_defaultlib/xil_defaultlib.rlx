@@ -1,0 +1,23 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/perhat.amanlyyev/UART_2/UART_2.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/four_rx_tb.sv,1714986826,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/four_tx_tb.sv,,four_byte_rx_tb,,uvm,,,,,,
+,,,,,,,,,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/rx_tb.sv,1714752514,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tb.sv,,rx_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tb.sv,1714484180,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tx_tb1.sv,,beforeTransmission_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tx_tb1.sv,1714985731,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/four_rx_tb.sv,,four_byte_tx_tb,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/beforeTransmission.sv,1714823458,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/rx.sv,,assignParity;beforeTransmission,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/dd.sv,1714842310,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/test.sv,,dd,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/display.sv,1714983011,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/beforeTransmission.sv,,display,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_rx.sv,1714986335,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_uart.sv,,four_byte_rx,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_tx.sv,1714985129,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/display.sv,,four_byte_tx,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_uart.sv,1714984982,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/dd.sv,,debounce;four_byte_uart,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_rx_v2.sv,1714865026,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_uart_v2.sv,,four_rx_v2,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_tx_v2.sv,1714864060,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_rx_v2.sv,,four_tx_v2,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_uart_v2.sv,1714870686,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/rx_tb.sv,,four_uart_v2,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/rx.sv,1714864094,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/tx.sv,,rx,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/test.sv,1714847611,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_tx_v2.sv,,test,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/tx.sv,1714865907,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/uart.sv,,setClock;slowClock;tx,,uvm,,,,,,
+C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/uart.sv,1714823512,systemVerilog,,C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_rx.sv,,uart,,uvm,,,,,,

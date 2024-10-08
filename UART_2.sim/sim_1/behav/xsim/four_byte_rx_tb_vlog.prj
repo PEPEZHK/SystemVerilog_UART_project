@@ -1,0 +1,25 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../UART_2.srcs/sources_1/new/four_byte_tx.sv" \
+"../../../../UART_2.srcs/sources_1/new/display.sv" \
+"../../../../UART_2.srcs/sources_1/new/beforeTransmission.sv" \
+"../../../../UART_2.srcs/sources_1/new/rx.sv" \
+"../../../../UART_2.srcs/sources_1/new/tx.sv" \
+"../../../../UART_2.srcs/sources_1/new/uart.sv" \
+"../../../../UART_2.srcs/sources_1/new/four_byte_rx.sv" \
+"../../../../UART_2.srcs/sources_1/new/four_byte_uart.sv" \
+"../../../../UART_2.srcs/sources_1/new/dd.sv" \
+"../../../../UART_2.srcs/sources_1/new/test.sv" \
+"../../../../UART_2.srcs/sources_1/new/four_tx_v2.sv" \
+"../../../../UART_2.srcs/sources_1/new/four_rx_v2.sv" \
+"../../../../UART_2.srcs/sources_1/new/four_uart_v2.sv" \
+"../../../../UART_2.srcs/sim_1/new/rx_tb.sv" \
+"../../../../UART_2.srcs/sim_1/new/tb.sv" \
+"../../../../UART_2.srcs/sim_1/new/tx_tb1.sv" \
+"../../../../UART_2.srcs/sim_1/new/four_rx_tb.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

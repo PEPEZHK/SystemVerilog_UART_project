@@ -1,0 +1,38 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_tx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_byte_tx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/display.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module display
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/beforeTransmission.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module assignParity
+INFO: [VRFC 10-311] analyzing module beforeTransmission
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/rx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/tx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module slowClock
+INFO: [VRFC 10-311] analyzing module setClock
+INFO: [VRFC 10-311] analyzing module tx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/uart.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module uart
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_rx.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_byte_rx
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_byte_uart.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module debounce
+INFO: [VRFC 10-311] analyzing module four_byte_uart
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/dd.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module dd
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/test.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_tx_v2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_tx_v2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_rx_v2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_rx_v2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sources_1/new/four_uart_v2.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_uart_v2
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/rx_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module rx_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module beforeTransmission_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/tx_tb1.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_byte_tx_tb
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "C:/Users/perhat.amanlyyev/UART_2/UART_2.srcs/sim_1/new/four_rx_tb.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module four_byte_rx_tb
